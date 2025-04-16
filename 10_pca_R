@@ -1,0 +1,9 @@
+R code for performing of Principal Component Analysis
+
+
+sent=1m.import("sentinel.png")
+sent=flip(sent)
+plot(sent)
+plot=(sent)
+?im.pca # è una  funzione di  imagery  serve  per calcolare  una  principal  componente  analysis, è  una  classe  che  ha  utilizzato  il  gestore del  pacchetto  Terra
+
